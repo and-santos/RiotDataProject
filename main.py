@@ -10,4 +10,4 @@ watcher = LolWatcher(API_KEY)
 
 free_champs = watcher.champion
 
-print(free_champs.rotations)
+print(free_champs.rotations) 
